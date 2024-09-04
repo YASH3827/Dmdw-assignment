@@ -1,0 +1,69 @@
+# After running the "compress.py"
+
+C:\Users\KIIT\AppData\Local\Programs\Python\Python310\python.exe C:\Users\KIIT\PycharmProjects\Assignment\compress.py
+Processing threshold: 1.0
+Patterns found: 0
+Processing threshold: 0.9
+Patterns found: 0
+Processing threshold: 0.8
+Patterns found: 0
+Processing threshold: 0.7
+Patterns found: 0
+Processing threshold: 0.6
+Patterns found: 0
+Processing threshold: 0.5
+Patterns found: 0
+Processing threshold: 0.4
+Patterns found: 0
+Processing threshold: 0.35
+Patterns found: 0
+Processing threshold: 0.3
+Patterns found: 1
+Processing threshold: 0.25
+Patterns found: 2
+Processing threshold: 0.2
+Patterns found: 2
+Processing threshold: 0.175
+Patterns found: 2
+Processing threshold: 0.15
+Patterns found: 1
+Processing threshold: 0.125
+Patterns found: 3
+Processing threshold: 0.1
+Patterns found: 3
+Processing threshold: 0.075
+Patterns found: 4
+Processing threshold: 0.05
+Patterns found: 9
+Processing threshold: 0.025
+Patterns found: 19
+Processing threshold: 0.01
+Patterns found: 101
+Processing threshold: 0.005
+Patterns found: 432
+Processing threshold: 0.0025
+Patterns found: 2355
+Processing threshold: 0.001
+Patterns found: 91420
+Compression dict size: 361
+Compression complete. Output saved to D_medium_compressed.dat.
+Elapsed time: 972.4043385982513 seconds
+Compression complete. Output saved to D_medium_compressed.dat.
+
+Process finished with exit code 0
+
+
+# After running the "decompress.py"
+
+C:\Users\KIIT\AppData\Local\Programs\Python\Python310\python.exe C:\Users\KIIT\PycharmProjects\Assignment\decompress.py
+Decompression complete. Output saved to decompressed.dat.
+
+Process finished with exit code 0
+
+
+# After running the "verify.py"
+
+C:\Users\KIIT\AppData\Local\Programs\Python\Python310\python.exe C:\Users\KIIT\PycharmProjects\Assignment\verify.py
+No error!
+
+Process finished with exit code 0
